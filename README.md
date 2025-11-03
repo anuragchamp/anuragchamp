@@ -60,7 +60,8 @@ I love transforming ideas into impactful digital experiences. 🚀
 ---
 
 ### 🧩 Featured Projects
-- 🕹️ [**Minesweeper JS**](https://github.com/anuragchamp/minesweeper-js) — Classic Minesweeper game built with JavaScript and HTML.  
+- 🕹️ [**Minesweeper JS**](https://github.com/anuragchamp/mineswepper) — Classic Minesweeper game built with JavaScript and HTML.
+-  (https://mineswepper-anurag.netlify.app/)  
 ---
 
 ## 📈 GitHub Stats
