@@ -17,7 +17,7 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 ## 🔧 Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green)
-![React](https://img.shields.io/bct-black?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-React-black?t&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/bjs-black?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
 ![Java](https://lds.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=ED8B00)
