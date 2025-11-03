@@ -2,10 +2,9 @@
 
 Highly skilled software engineer with expertise in ReactJS, Springboot,java, TypeScript, Git, and javascript. Seeking a challenging role to leverage my skills and contribute to the development of innovative software solutions.
 
-📫 Reach me at: anuragchhaperwal@gmail.com  
+📫 Reach me at: anuragchhaperwal@gmail.com
 [![LinkedIn](https://img.shieldsnkedIn-blue?style=flat&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/anurag-chhaperwal-8b551b229/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/anuragchamp
-****
 
 ## 🚀 About Me
 
