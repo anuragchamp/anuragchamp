@@ -2,7 +2,7 @@
 
 Highly skilled software engineer with expertise in ReactJS, Node.js, TypeScript, Git, and AWS. Seeking a challenging role to leverage my skills and contribute to the development of innovative software solutions.
 
-📫 Reach me at: anuragchamp71@gmail.com
+📫 Reach me at: anuragchhaperwal@gmail.com
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-chhaperwal-8b551b229/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/anuragchamp)
 
 ## 🚀 About Me
