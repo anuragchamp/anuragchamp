@@ -13,15 +13,19 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 - 👯 I’m looking to collaborate on open-source projects related to web development and machine learning.
 - 💬 Ask me about React, Node.js, and cloud deployments on AWS.
 
+
 ## 🔧 Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/bct-black?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/bjs-black?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-bo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScriptfor-the-badge&logo=javascript&logoColor=black)
+![Java](https://lds.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/-ck?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flater&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysqlr=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor)
 
 ## 📈 GitHub Stats
 
