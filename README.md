@@ -21,7 +21,7 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
-![Javascript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
+![Javascript](https://img.shields.io/badge/?style=for-the-badge&logo=javascript)
 
 
 ## 📈 GitHub Stats
