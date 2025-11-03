@@ -23,7 +23,7 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 ![Java](https://lds.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-ck?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flater&logoColor=2496ED)
+![Docker](https://img.shields.io/badge/-docker-black?style=flater&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor)
 
 ## 📈 GitHub Stats
