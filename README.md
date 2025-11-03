@@ -1,8 +1,3 @@
-<!-- Optional Banner -->
-<p align="center">
-  <img src="https://github.com/anuragchamp/anuragchamp/blob/main/banner.png" alt="Anurag Chhaperwal Banner" width="100%" />
-</p>
-
 # Hi there, I'm Anurag Chhaperwal 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Docker;Always+learning+new+things!)](https://git.io/typing-svg)
