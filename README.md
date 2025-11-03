@@ -19,7 +19,7 @@ Highly skilled software engineer with expertise in ReactJS, Node.js, TypeScript,
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
 
 
