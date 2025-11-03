@@ -14,17 +14,18 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 - 💬 Ask me about React, Node.js, and cloud deployments on AWS.
 
 
-## 🔧 Technologies & Tools
+### 🛠️ Technologies & Tools
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Bootor-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?t&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge0000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
-![Java](https://lds.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/-ck?style=flat&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-docker-black?style=flater&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
