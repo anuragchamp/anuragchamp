@@ -28,7 +28,7 @@ I love transforming ideas into impactful digital experiences. 🚀
 ---
 
 ### 🌱 Current Focus
-- Building full-stack applications using **React** & **Spring Boot**  
+- Building full-stack applications using **React/Angular** & **Spring Boot**  
 - Enhancing deployment pipelines with **Docker** and **Linux**  
 - Exploring **AWS Cloud** (EC2, S3, ECS, Lambda)  
 
