@@ -16,7 +16,7 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 
 ## 🔧 Technologies & Tools
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green)
+![Spring Boot](https://img.shieldsg%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?t&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge0000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
@@ -24,7 +24,6 @@ Highly skilled software engineer with expertise in ReactJS, Springboot,java, Typ
 ![JavaScript](https://img.shields.io/badge/-ck?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flater&logoColor=2496ED)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysqlr=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor)
 
 ## 📈 GitHub Stats
